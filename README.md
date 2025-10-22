@@ -1,15 +1,37 @@
-## Hi there 👋
+# 👋 Hola, soy Arturo Muñoz
 
-**arturo0427/arturo0427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desarrollador Full-Stack | Angular | React | Node.js | MongoDB
 
-Here are some ideas to get you started:
+Soy **Ingeniero en Sistemas** con enfoque en el desarrollo web. Me apasiona crear aplicaciones modernas, escalables y centradas en la experiencia del usuario. Busco integrarme en equipos dinámicos donde pueda seguir aprendiendo, aportar soluciones efectivas y optimizar los procesos de desarrollo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
+## 🚀 Tecnologías y Herramientas
+
+**Frontend:**  
+Angular 17+, ReactJS, Tailwind CSS, Bootstrap, Zustand, React Query, React Hook Form, GSAP, Three.js  
+
+**Backend:**  
+Node.js, Express.js, Laravel  
+
+**Base de datos:**  
+MongoDB, MySQL  
+
+**Gestión de estado:**  
+NgRx, React Context  
+
+**Metodologías y control de versiones:**  
+SCRUM, Git, GitHub  
+
+---
+
+## 📫 Contacto
+
+📍 Manta, Ecuador  
+📧 [arturo_munoz27@outlook.com](mailto:arturo_munoz27@outlook.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/arturom0427/)  
+💻 [GitHub](https://github.com/arturo0427)
+
+---
+
+⭐ **“La mejor forma de predecir el futuro es crearlo.” – Peter Drucker**
