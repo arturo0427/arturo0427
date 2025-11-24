@@ -9,7 +9,7 @@ Soy **Ingeniero en Sistemas** con enfoque en el desarrollo web. Me apasiona crea
 ## 🚀 Tecnologías y Herramientas
 
 **Frontend:**  
-Angular 17+, ReactJS, Tailwind CSS, Bootstrap, Zustand, React Query, React Hook Form, GSAP, Three.js  
+Angular 17+, ReactJS, Expo, Tailwind CSS, Bootstrap, React Query, React Hook Form, GSAP, Three.js  
 
 **Backend:**  
 Node.js, Express.js, Laravel  
@@ -18,7 +18,7 @@ Node.js, Express.js, Laravel
 MongoDB, MySQL  
 
 **Gestión de estado:**  
-NgRx, React Context  
+NgRx, Zustand
 
 **Metodologías y control de versiones:**  
 SCRUM, Git, GitHub  
