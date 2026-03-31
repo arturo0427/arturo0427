@@ -30,7 +30,7 @@ SCRUM, Git, GitHub
 📍 Manta, Ecuador  
 📧 [arturo_munoz27@outlook.com](mailto:arturo_munoz27@outlook.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/arturom0427/)  
-💻 [Portafolio]([https://github.com/arturo0427](https://arturo0427.github.io/portafolio-responsive/)
+💻 [Portafolio](https://arturo0427.github.io/portafolio-responsive/)
 
 ---
 
